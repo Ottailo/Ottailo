@@ -15,7 +15,7 @@ I studied mechatronics engineering. That is where I learned to think about what 
 
 - [VibesMeet: live event infrastructure under unreliable networks](https://github.com/Ottailo/case-studies/blob/main/vibesmeet-live-events.md)
 - [Sterling Bank: RPA for core banking reconciliation](https://github.com/Ottailo/case-studies/blob/main/sterling-bank-rpa.md)
-- [Unified AI: a human-in-the-loop multi-agent system](https://github.com/Ottailo/case-studies/blob/main/unified-ai.md)
+- [Unified AI: a multi-agent system with staged external actions](https://github.com/Ottailo/case-studies/blob/main/unified-ai.md)
 
 ## Now
 
