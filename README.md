@@ -6,10 +6,10 @@ I studied mechatronics engineering. That is where I learned to think about what 
 
 ## Selected work
 
-- **[KinoBeat Studio](https://github.com/Ottailo/KinoBeat-Studio)** — node-based generative video studio with Remotion, React Flow, and frame-accurate audio-reactive timelines.
-- **[Questify](https://github.com/Ottailo/Questify)** — natural-language goal decomposition and RPG quest generation with FastAPI, React, and a custom NLU engine.
-- **[SmartX-Fire](https://github.com/Ottailo/SmartX-Fire)** — multi-sensor fire simulation with an explainable classifier and a telemetry dashboard.
-- **[AI Trader](https://github.com/Ottailo/AI-Trader)** — early algorithmic trading scaffold: FastAPI backend, Next.js dashboard, market data, and backtesting.
+- **[KinoBeat Studio](https://github.com/Ottailo/KinoBeat-Studio)** - node-based generative video studio with Remotion, React Flow, and frame-accurate audio-reactive timelines.
+- **[Questify](https://github.com/Ottailo/Questify)** - natural-language goal decomposition and RPG quest generation with FastAPI, React, and a custom NLU engine.
+- **[SmartX-Fire](https://github.com/Ottailo/SmartX-Fire)** - multi-sensor fire simulation with an explainable classifier and a telemetry dashboard.
+- **[AI Trader](https://github.com/Ottailo/AI-Trader)** - early algorithmic trading scaffold: FastAPI backend, Next.js dashboard, market data, and backtesting.
 
 ## Case studies
 
